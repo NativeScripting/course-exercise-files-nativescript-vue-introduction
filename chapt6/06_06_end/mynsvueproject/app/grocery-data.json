@@ -1,0 +1,22 @@
+{
+  "groceryItems": [
+    {
+      "id": 1,
+      "name": "apples",
+      "done": false,
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "name": "oranges",
+      "done": true,
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "name": "eggs",
+      "done": false,
+      "deleted": true
+    }
+  ]
+}

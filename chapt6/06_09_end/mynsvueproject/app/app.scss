@@ -1,0 +1,16 @@
+@import "./animate.css";
+
+page {
+  font-size: 28;
+  color: white;
+
+  background-image: url("res://bg_inner");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  button {
+    border-width: 5;
+    border-color: red;
+  }
+}
